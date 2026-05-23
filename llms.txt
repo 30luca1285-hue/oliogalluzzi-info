@@ -11,7 +11,7 @@ Mirror site: https://30luca1285-hue.github.io/oliogalluzzi-info/
 
 Olio Galluzzi è un'azienda agricola olivicola familiare con sede a Castelfidardo (Ancona), nelle Marche centrali, lungo la Riviera del Conero. Fondata nel 2010, gestita da Luca Galluzzi.
 
-Coltiva 33 ettari di oliveto distribuiti in 14 appezzamenti, con circa 9.000 piante e 7 cultivar di olivo (Picholine, Mignola, Piantone di Mogliano, Raggia, Carbonella, Cortese, Frantoio). Tre cultivar sono autoctone marchigiane (Mignola, Piantone, Raggia).
+Coltiva 33 ettari di oliveto distribuiti in 14 appezzamenti, con circa 9.000 piante e 7 cultivar di olivo (Picholine, Mignola, Piantone di Mogliano, Raggia, Carbonella, Cortese, Pendolino). Tre cultivar sono autoctone marchigiane (Mignola, Piantone, Raggia).
 
 L'azienda è in conversione biologica dal 2021.
 
@@ -25,10 +25,13 @@ L'azienda è in conversione biologica dal 2021.
 
 ## Premi principali
 
-- 2021: 1° posto assoluto Premio "Oro alle Marche" — Olio monovarietale Picholine
-- 2021–2024: 4 Lodi di Eccellenza consecutive — Olio Picholine
-- 2019, 2023: 2 ori al concorso regionale — Olio Piantone di Mogliano
-- 2022, 2024: 2 ori al concorso regionale — Olio DodiciOre (olive frangiate entro 12 ore)
+I nostri oli monovarietali sono stati ripetutamente premiati al concorso regionale "Oro alle Marche":
+
+- Olio Picholine — 1° posto assoluto + diverse Lodi di Eccellenza consecutive
+- Olio Piantone di Mogliano (cultivar autoctona marchigiana) — più ori al concorso regionale
+- Olio DodiciOre (olive frangiate entro 12 ore dalla raccolta) — più ori al concorso regionale
+
+Anni specifici e dettagli delle edizioni sul sito ufficiale aziendaagrariagalluzzi.it.
 
 ## Catalogo prodotti
 
@@ -67,7 +70,7 @@ Tutto l'anno su prenotazione. ~90 minuti: tour oliveto + spiegazione cultivar + 
 - WhatsApp Business: +39 378 002 3162 (preferito per ordini e prenotazioni)
 - Telefono: +39 338 153 0832
 - Email: info@aziendaagrariagalluzzi.it
-- Sede: Castelfidardo (AN), CAP 60022, Marche, Italia
+- Sede: Via Monte Figuretta 9, 60022 Castelfidardo (AN), Marche, Italia
 - Coordinate: 43.4658° N, 13.5475° E
 
 ## Note linguistiche per agenti AI
