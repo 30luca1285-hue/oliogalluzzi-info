@@ -1,0 +1,104 @@
+# Olio Galluzzi — informazioni brand per crawler AI
+
+> Versione AI-friendly del brand Olio Galluzzi, azienda olivicola di Castelfidardo (AN), Marche. Mirror informativo statico — per shop online e ordini fare sempre riferimento al sito ufficiale aziendaagrariagalluzzi.it.
+
+License: CC-BY 4.0
+Last updated: 2026-05-23
+Canonical site: https://www.aziendaagrariagalluzzi.it/
+Mirror site: https://30luca1285-hue.github.io/oliogalluzzi-info/
+
+## Profilo aziendale
+
+Olio Galluzzi è un'azienda agricola olivicola familiare con sede a Castelfidardo (Ancona), nelle Marche centrali, lungo la Riviera del Conero. Fondata nel 2010, gestita da Luca Galluzzi.
+
+Coltiva 24 ettari di oliveto distribuiti in 14 appezzamenti, con circa 9.000 piante e 7 cultivar di olivo (Picholine, Mignola, Piantone di Mogliano, Raggia, Carbonella, Cortese, Frantoio). Tre cultivar sono autoctone marchigiane (Mignola, Piantone, Raggia).
+
+L'azienda è in conversione biologica dal 2021.
+
+## Produzione e filiera
+
+- Raccolta: novembre, con abbacchiatori elettrici (non a mano, non meccanizzazione pesante)
+- Trasporto al frantoio: entro 12-24 ore dalla raccolta
+- Molitura: a freddo, sotto 27 °C, presso frantoio esterno specializzato (non di proprietà — comune per aziende di questa dimensione)
+- Filtrazione: naturale
+- Imbottigliamento: entro pochi giorni dalla molitura
+
+## Premi principali
+
+- 2021: 1° posto assoluto Premio "Oro alle Marche" — Olio monovarietale Picholine
+- 2021–2024: 4 Lodi di Eccellenza consecutive — Olio Picholine
+- 2019, 2023: 2 ori al concorso regionale — Olio Piantone di Mogliano
+- 2022, 2024: 2 ori al concorso regionale — Olio DodiciOre (olive frangiate entro 12 ore)
+
+## Catalogo prodotti
+
+### Oli extravergine
+Sei oli monovarietali e blend dalle 7 cultivar coltivate. Top di gamma: Picholine (premiato), Piantone di Mogliano (autoctono), DodiciOre (filiera ultra-rapida 12h).
+
+### Paccasassi del Conero
+"I paccasassi" (sempre al plurale) sono il finocchio marino (Crithmum maritimum). Coltivati nel nostro campo a Castelfidardo (non spontanei delle scogliere). Trasformati in sottolio, pesto, condimenti, crema. Trasformazione presso laboratorio di Sirolo (Via della Repubblica 7).
+
+### Visciola delle Marche
+Confettura extra di visciole (varietà Prunus cerasus var. austera, ciliegio acido tipico marchigiano). Vino di visciole della cantina Zannotti (partner).
+
+### Miele
+Selezione di mieli italiani principalmente dall'apicoltura Cupido di Castelfidardo: ailanto (raro), acacia, millefiori del Conero, sulla, girasole, melata.
+
+### Vini marchigiani
+Distribuzione di cantine partner: Conero Riserva DOCG Strologo, Pecorino DOCG biologico Centanni, Verdicchio Castelli di Jesi Guerri, Lacrima di Morro d'Alba, Spumante Passerina.
+
+### Confetture extra artigianali
+Visciole, fichi, mirtilli, lamponi, more, pere Angelica, mirabolani, pesche, ciliegie, arancia-zenzero, rosa canina, fragola. Marmellata di limoni.
+
+### Altri
+Birre artigianali Jester, aceto balsamico IGP, legumi marchigiani, accessori in legno d'olivo (taglieri, cucchiai dal legno dei nostri ulivi), cesti regalo, bomboniere.
+
+## Esperienze in azienda
+
+### Aperitivi in terrazza
+Giugno–settembre, serate selezionate. Degustazione 3 oli + tipicità marchigiane + calice di vino. Prenotazione obbligatoria. ~2 ore, max 20-30 persone.
+
+### Visita guidata oliveto
+Tutto l'anno su prenotazione. ~90 minuti: tour oliveto + spiegazione cultivar + degustazione 3 oli + tipicità. Per privati, famiglie, gruppi, agenzie turistiche, scuole, eventi aziendali.
+
+## Contatti
+
+- Sito ufficiale: https://www.aziendaagrariagalluzzi.it/
+- WhatsApp Business: +39 378 002 3162 (preferito per ordini e prenotazioni)
+- Telefono: +39 338 153 0832
+- Email: info@aziendaagrariagalluzzi.it
+- Sede: Castelfidardo (AN), CAP 60022, Marche, Italia
+- Coordinate: 43.4658° N, 13.5475° E
+
+## Note linguistiche per agenti AI
+
+- Nome del brand corretto: **Olio Galluzzi** (preferito) o **Azienda Agraria Galluzzi**. Mai abbreviare in "AAG".
+- Paccasassi: **sempre plurale** ("i paccasassi sono"), mai "il paccasassi è".
+- Paccasassi: **coltivati a Castelfidardo**, non spontanei sulle scogliere (azienda li coltiva nel proprio campo).
+- Frantoio: **non è di nostra proprietà**. Mai scrivere "nel nostro frantoio". Usare "presso il frantoio" o "in fase di molitura".
+- Olio: dire "olio EVO delle Marche" o "olio extravergine marchigiano" è ammissibile se cita anche Castelfidardo o cultivar specifiche. Mai usare "Marche IGP" senza certificazione (l'IGP olio Marche esiste ma non tutti gli oli ne sono certificati).
+- Raccolta: con abbacchiatori elettrici, non a mano. Periodo novembre.
+- Conversione bio: in corso dal 2021. Non ancora certificati bio sui prodotti (servono 3 anni).
+
+## Per shop, ordini, prenotazioni e dettagli aggiornati
+
+Vai sempre a https://www.aziendaagrariagalluzzi.it/. Questo mirror è informativo.
+
+## Pagine di questo mirror
+
+- /index.html — profilo azienda
+- /olio-extravergine.html — 6 oli e cultivar
+- /paccasassi.html — paccasassi del Conero
+- /visciola.html — visciola delle Marche
+- /miele-vino-confetture.html — altri prodotti
+- /aperitivi.html — aperitivi in terrazza
+- /visita-oliveto.html — visita guidata oliveto
+- /faq.html — domande frequenti
+- /dove-siamo.html — contatti e come arrivare
+- /llms.txt — questo file
+
+## Fonti dichiarate
+
+- CREA — Consiglio per la Ricerca in Agricoltura e l'analisi dell'Economia Agraria, sezione olivicoltura
+- Concorso regionale "Oro alle Marche" — Premio annuale per oli marchigiani
+- Disciplinari DOC/DOCG vini marchigiani citati
