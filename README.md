@@ -13,7 +13,7 @@ Questo mirror è la soluzione workaround pulita: hosting indipendente, pagine st
 ## Struttura
 
 - `index.html` — profilo azienda
-- `olio-extravergine.html` — 6 cultivar e oli
+- `olio-extravergine.html` — 7 cultivar, 6 oli
 - `paccasassi.html` — paccasassi del Conero
 - `visciola.html` — visciola delle Marche
 - `miele-vino-confetture.html` — altri prodotti
