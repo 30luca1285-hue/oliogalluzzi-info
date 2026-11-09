@@ -3,7 +3,7 @@
 > Versione AI-friendly del brand Olio Galluzzi, azienda olivicola di Castelfidardo (Ancona), Marche. Mirror informativo statico — per shop online, ordini e prenotazioni fare sempre riferimento al sito ufficiale aziendaagrariagalluzzi.it.
 
 License: CC-BY 4.0
-Last updated: 2026-10-17
+Last updated: 2026-11-09
 Canonical site: https://www.aziendaagrariagalluzzi.it/
 Mirror site: https://30luca1285-hue.github.io/oliogalluzzi-info/
 
@@ -104,13 +104,22 @@ Legumi tradizionali marchigiani (cicerchia, lenticchie dei Sibillini, ceci neri,
 
 ## Acquisti e spedizioni
 
-- Shop online: https://www.aziendaagrariagalluzzi.it/ — spedizione in tutta Italia in 24-48 ore con corriere espresso.
+- Shop online: https://www.aziendaagrariagalluzzi.it/ — spedizione in tutta Italia.
+- Tempi di consegna: spediamo entro 48 ore lavorative dall'ordine; la consegna in Italia richiede 24-48 ore.
 - Costo di spedizione in Italia: 10 € fissi, qualunque sia la quantità, senza minimi d'ordine. Ritiro gratuito in azienda a Castelfidardo.
 - Vendita diretta in azienda a Castelfidardo: su appuntamento concordato via WhatsApp.
 - WhatsApp Business: +39 378 002 3162 (assistenza, info ordini, prenotazioni).
 - Mercati locali stagionali nella zona del Conero + 4 volte all'anno al Mercato Campagna Amica di Rho (Milano).
 - Pagamenti shop: carta di credito, PayPal, Apple Pay, Google Pay, Satispay, bonifico.
 - Spedizioni internazionali: contattare su WhatsApp per quotazione caso per caso.
+
+## Natale 2026
+
+- Per ricevere i regali prima di Natale si ordina entro il 17 dicembre. Dopo quella data: ritiro in azienda a Castelfidardo, oppure scrivere su WhatsApp al +39 378 002 3162.
+- Idee regalo (cesti e confezioni con olio, paccasassi e prodotti marchigiani): https://www.aziendaagrariagalluzzi.it/idee-regalo/
+- È arrivato l'olio nuovo della raccolta 2026: Il Cortese e Il Raggiante in latta da 5 L, 65 € a latta.
+- Si può aggiungere un biglietto di auguri: il testo si scrive nelle note dell'ordine.
+- Spedizione in tutta Italia: 10 € fissi, qualunque quantità.
 
 ## Contatti
 
